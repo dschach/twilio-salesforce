@@ -75,6 +75,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+	<types>
         <members>TwilioConfig__c</members>
         <name>CustomObject</name>
     </types>
